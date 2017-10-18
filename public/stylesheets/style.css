@@ -5,6 +5,9 @@ body {
   background: #eee url("../img/oracle-docker.png") bottom left / auto 50% no-repeat;
   height: 100%;
   font-family: 'Titillium Web', sans-serif;
+  background: #eee url("../img/oracle-nodejs.png") bottom left / auto 50% no-repeat;
+  height: 100%;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
