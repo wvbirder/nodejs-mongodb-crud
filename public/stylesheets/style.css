@@ -2,7 +2,7 @@
 
 html,
 body {
-  background: #eee url("../img/oracle-docker.png") bottom left / auto 50% no-repeat;
+  background: #eee url("../img/oracle-docker.png") bottom left;
   height: 50%;
   width: 50%;
   font-family: 'Titillium Web', sans-serif;
